@@ -1,0 +1,6 @@
+framework module Pods_Prognoz {
+  umbrella header "Pods-Prognoz-umbrella.h"
+
+  export *
+  module * { export * }
+}
